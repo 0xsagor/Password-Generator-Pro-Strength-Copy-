@@ -1,0 +1,34 @@
+body {
+  background: #f3f4f6;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  width: 360px;
+  margin: 80px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.options label {
+  display: block;
+  margin: 6px 0;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#strength {
+  margin-top: 10px;
+  font-weight: bold;
+}
